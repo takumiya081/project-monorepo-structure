@@ -1,0 +1,10 @@
+{
+  "name": "@devtool/eslint-config",
+  "license": "MIT",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "eslint": "8.55.0",
+    "eslint-config-turbo": "^1.10.16"
+  }
+}

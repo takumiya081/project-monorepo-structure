@@ -1,0 +1,6 @@
+packages:
+  - 'apps/*'
+  - 'devtool/*'
+  - 'packages/feature/*'
+  - 'packages/lib/*'
+  - 'packages/ui/*'

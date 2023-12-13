@@ -1,0 +1,13 @@
+{
+  "eslint.workingDirectories": [
+    {
+      "mode": "auto"
+    }
+  ],
+  "javascript.validate.enable": false,
+  "javascript.format.enable": true,
+  "editor.formatOnSave": true,
+  "eslint.format.enable": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "typescript.tsdk": "./node_modules/typescript/lib"
+}
